@@ -1,5 +1,5 @@
 import unittest
-from src.Radial_bias_Raunak_gola import add
+from Radial_bias_Raunak_gola import add
 
 class TestAddFunction(unittest.TestCase):
     def test_add(self):
