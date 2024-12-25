@@ -11,7 +11,7 @@ trial for making python library
     
 3.  import the library
 
-    ```
+    ```python
     from Radial_bias_Raunak_gola import module
     module.add(4,5)
     ```
