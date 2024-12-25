@@ -29,10 +29,8 @@ pythonpath = ["src"]
 
 [project.urls]
 Homepage = "https://github.com/raunakgola/Radial-Bias"
-<<<<<<< HEAD
 Source = "https://github.com/raunakgola/Radial-Bias"
 Issues = "https://github.com/raunakgola/Radial-Bias/issues"
 Docs = "https://github.com/raunakgola/Radial-Bias/blob/main/README.md"
-=======
 Issues = "https://github.com/raunakgola/Radial-Bias/issues"
->>>>>>> b8367bba5a8bb4e5d72009b59d9b227e5e051c5d
+
