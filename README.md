@@ -5,7 +5,7 @@ trial for making python library
 
 1.  Install the library:
 
-    ```
+    ```python
     pip install Radial-Bias
     ```
     
