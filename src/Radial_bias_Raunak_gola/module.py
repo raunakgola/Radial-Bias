@@ -1,3 +1,3 @@
-def add(a, b):
-    """Add two numbers."""
+def add(a: int, b: int):
+    """Add two integer values"""
     return a + b
